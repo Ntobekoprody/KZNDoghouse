@@ -2,4 +2,19 @@
     <string name="app_name">TheDogHouse_Prototype</string>
     <string name="profile_image_desc">Profile picture</string>
 
+    <!-- Drawer toggle -->
+    <string name="nav_open">Open navigation</string>
+    <string name="nav_close">Close navigation</string>
+
+    <!-- Drawer menu items -->
+    <string name="nav_home">Home</string>
+    <string name="nav_uploads">My Uploads</string>
+    <string name="nav_settings">Settings</string>
+
+    <!-- Custom drawer items -->
+    <string name="nav_register">Register</string>
+    <string name="nav_newsletter">Newsletter</string>
+    <string name="nav_meds">Meds Donation</string>
+    <string name="nav_funds">Funds</string>
+    <string name="nav_volunteer">Volunteer</string>
 </resources>
